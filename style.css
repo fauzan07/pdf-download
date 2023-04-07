@@ -1,0 +1,71 @@
+body{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    height: 100%;
+}
+
+.date {
+    display: flex;
+    justify-content: space-between;
+    margin:0;
+}
+
+.designation-table{
+  padding-left: 20px !important;
+}
+
+.sign-image{
+ width: 190px;
+ height: 200px;
+}
+
+.a-heading{
+  font-size: 25px;
+}
+
+.s-heading{
+  font-size: 35px;
+}
+
+.salary-c{
+  margin-top: 30px;
+}
+
+.footer-head{
+  color: rgba(8, 82, 151, 0.92);
+  font-size: 27px;
+  margin-top: 15px;
+  padding-top: 25px;
+}
+
+.footer-head2{
+  font-size: 22px;
+}
+
+.icons{
+  color: rgba(246, 189, 74, 0.92);
+  font-size: 30px;
+}
+
+.icons-1{
+  color: rgba(246, 189, 74, 0.92);
+  /* font-size: 30px; */
+  padding-left: 10px;
+  margin-right: 10px;
+}
+
+#footer{
+  /* background-color: rgba(217, 223, 227, 0.929); */
+  padding-top: 60px;
+}
+
+.pull-right{
+  padding-left: 600px !important;
+}
+
+.download{
+  float: right;
+}
